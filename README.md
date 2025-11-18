@@ -2,6 +2,8 @@
 
 This extension highlights words containing "trans" (not case sensitive) with the trans flag :3
 
+Repo link: https://github.com/SquareScreamYT/trans-highlighter
+
 ## Display
 
 <img src="colouredtext.gif" alt="Trans-coloured text" height="100px">
@@ -14,4 +16,4 @@ This extension highlights words containing "trans" (not case sensitive) with the
 4. Click "Install from VSIX".
 5. Select the file.
 6. Reload the app
-7. done :tada:
+7. done 🎉
