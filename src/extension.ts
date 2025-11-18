@@ -17,7 +17,7 @@ export function activate(context: vscode.ExtensionContext) {
     if (!editor) {return;};
 
     const text = editor.document.getText();
-    const regEx = /\btrans\b/gi;
+    const regEx = /\b\w*trans\w*\b/gi;
     const decorations: vscode.DecorationOptions[] = [];
 
     let match;

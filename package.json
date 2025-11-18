@@ -1,8 +1,9 @@
 {
   "name": "trans-highlighter",
   "displayName": "trans-highlighter",
+  "publisher": "sq",
   "description": "Highlights words that contain \"trans\" with the trans flag :3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.106.0"
   },

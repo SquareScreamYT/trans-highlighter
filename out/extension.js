@@ -52,7 +52,7 @@ function activate(context) {
         }
         ;
         const text = editor.document.getText();
-        const regEx = /\btrans\b/gi;
+        const regEx = /\b\w*trans\w*\b/gi;
         const decorations = [];
         let match;
         while ((match = regEx.exec(text))) {
